@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:muestra/pagina1.dart';
+import 'package:muestra/pagina2.dart';
 import 'package:muestra/pagina3.dart';
 
 class Inicio extends StatefulWidget {
@@ -48,7 +49,5 @@ class _MyAppState extends State<Inicio> {
         ),
       ),
     );
-  }
-  
-  static Pagina2() {}
+  }    
 }
